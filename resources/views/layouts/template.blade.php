@@ -29,6 +29,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="jobs"><i class="icon-grid"></i> Minhas vagas</a></li>
                     <li><a href="jobs/new"><i class="icon-note"></i> Cadastrar nova vaga</a></li>
+                    <li><a href="{{ route('company') }}"><i class="icon-settings"></i> Sobre a empresa</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="/profile"><i class="icon-user"></i> Meu perfil</a></li>
